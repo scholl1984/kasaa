@@ -1,0 +1,10 @@
+.tagname {
+    height: 25px;
+    width: 115px;
+    left: 0px;
+    top: 0px;
+    border-radius: 10px;
+    background: #FF6060;
+    border: 5px solid transparent;
+    color : white
+}
